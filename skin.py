@@ -1,7 +1,7 @@
-import cv2  #cv2==4.8.0
-import numpy as np#numpy ==1.24.3
-import streamlit as st#
-import time
+# import cv2  #cv2==4.8.0
+# import numpy as np#numpy ==1.24.3
+# import streamlit as st#
+# import time
 
 st.title("实时皮肤检测应用程序")
 
