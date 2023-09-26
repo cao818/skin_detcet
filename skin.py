@@ -1,4 +1,4 @@
-import cv2.cv2 as cv2 #cv2==4.8.0
+import opencv_python #cv2==4.8.0
 import numpy as np#numpy ==1.24.3
 import streamlit as st#
 import time
